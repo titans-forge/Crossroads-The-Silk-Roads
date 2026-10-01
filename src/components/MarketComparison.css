@@ -1,0 +1,23 @@
+.market-comparison { margin: 18px 0; padding: 12px 0; border-block: 1px solid #9c987c; color: #263d32; }
+.market-comparison summary { cursor: pointer; font-size: 14px; font-weight: 700; min-height: 28px; }
+.market-comparison p { font-size: 13px; line-height: 1.5; }
+.market-table-scroll { overflow-x: auto; }
+.market-comparison table { width: 100%; min-width: 480px; border-collapse: collapse; font-size: 13px; font-variant-numeric: tabular-nums; }
+.market-comparison caption { text-align: left; font-weight: 700; padding: 8px 0; }
+.market-comparison th, .market-comparison td { padding: 10px 8px; text-align: right; border-bottom: 1px solid #c3baa0; }
+.market-comparison th:first-child { text-align: left; width: 44%; }
+.market-comparison thead { background: #dce3d4; }
+.market-comparison tbody th { font-weight: 400; }
+.market-comparison small { display: block; font-size: 11px; margin-top: 5px; }
+.market-comparison .market-footnote { font-size: 11px; }
+.market-unavailable { color: #645746; }
+.market-mobile { display: none; }
+@media (max-width: 600px) {
+  .market-table-scroll { display: none; }
+  .market-mobile { display: block; }
+  .market-mobile section { padding: 12px 0; border-bottom: 1px solid #c3baa0; }
+  .market-mobile h3 { font-size: 14px; line-height: 1.5; margin: 0 0 10px; }
+  .market-mobile dl { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 10px; margin: 0; }
+  .market-mobile dt { font-size: 12px; }
+  .market-mobile dd { margin: 2px 0 0; font-size: 16px; font-weight: 700; font-variant-numeric: tabular-nums; }
+}

@@ -1,0 +1,14 @@
+.route-briefing { border-block: 1px solid #9c987c; margin: 18px 0; padding: 12px 0; color: #263d32; }
+.route-briefing summary { cursor: pointer; font-size: 14px; font-weight: 700; min-height: 32px; }
+.route-briefing-options { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 20px; margin-top: 12px; }
+.route-briefing-options article { min-width: 0; }
+.route-briefing img { display: block; width: 100%; height: 110px; object-fit: cover; }
+.route-briefing h2 { font: 700 20px/1.25 Georgia,serif; margin: 14px 0 10px; }
+.route-briefing h3 { font-size: 13px; margin: 16px 0 8px; }
+.route-briefing p { font-size: 13px; line-height: 1.5; }
+.route-briefing dl { margin: 0; font-size: 12px; }
+.route-briefing dl > div { display: flex; justify-content: space-between; gap: 12px; padding: 6px 0; border-bottom: 1px solid #c3baa0; }
+.route-briefing dd { margin: 0; font-weight: 700; }
+.route-briefing .route-briefing-note { font-size: 11px; margin-top: 16px; }
+.route-blocked { font-weight: 700; }
+@media(max-width:600px) { .route-briefing-options { grid-template-columns: 1fr; } }

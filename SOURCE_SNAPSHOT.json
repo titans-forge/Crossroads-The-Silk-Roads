@@ -1,0 +1,318 @@
+{
+  "schema": "forge_game_source_snapshot_v1",
+  "game": "Crossroads: The Silk Roads",
+  "selected_source_sha256": "ad0e5cf4cd654ba248e749b325fc5dc93033edd8d4c6a209c5526b57d7191618",
+  "runtime_files": [
+    {
+      "path": "index.html",
+      "sha256": "9583e57ca07cf2b05a1c0ebdf114c430d22a26356a9a20a170d0ef8f0a8a5c9b",
+      "bytes": 363
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "8281924ba1059f01ce17a3bf73aa9f253c5a7c73e9befdb03c18fa50ed76512a",
+      "bytes": 10149
+    },
+    {
+      "path": "src/assets/TARIM_ART.md",
+      "sha256": "12dd1a2f8b334d8249766851c4843e9d6ebc44e588f3f7b88cdae0e9d8a6440b",
+      "bytes": 1340
+    },
+    {
+      "path": "src/assets/bactra-approach.png",
+      "sha256": "fba511987a72635934987a18f4e38f74da6492d2aab843b6c1c2743aa9c48719",
+      "bytes": 2380648
+    },
+    {
+      "path": "src/assets/bactra-approach.webp",
+      "sha256": "d4fbb098c93be2d9fb9da739cc3aaf2f83c9a1cf3e5124da9267d48bebff64ab",
+      "bytes": 197356
+    },
+    {
+      "path": "src/assets/bactra-market.png",
+      "sha256": "74beb91a167ba1a872dddc4981c4438d35feb2f9f1be9fbc40be9be079932448",
+      "bytes": 2534430
+    },
+    {
+      "path": "src/assets/bactra-market.webp",
+      "sha256": "20a468a2203a9c88f8fe7618a1033ed580e149b2f68ce377c9214d0af0cfda4a",
+      "bytes": 212504
+    },
+    {
+      "path": "src/assets/caravan-portraits.png",
+      "sha256": "a5f3e187b8d0fb97beef0bcab5767dc0c77f3fbc61907c898bc5ef27796dc4d1",
+      "bytes": 2343980
+    },
+    {
+      "path": "src/assets/caravan-portraits.webp",
+      "sha256": "81e0672459ed144804f16cde0d56fb9e8c0b66221a984fc2a01796f0304dee7f",
+      "bytes": 151820
+    },
+    {
+      "path": "src/assets/dunhuang-frontier.png",
+      "sha256": "94fdea8e9457eb6d5477b1ab1e27b9f57ccf561cd3dab73d03b5ae7cbdad5368",
+      "bytes": 2326476
+    },
+    {
+      "path": "src/assets/dunhuang-frontier.webp",
+      "sha256": "49ce1c97057aae7a022e1b1aa9db547d3af34d9beaf6399f06aed100d8f341a9",
+      "bytes": 159724
+    },
+    {
+      "path": "src/assets/kashgar-oasis.png",
+      "sha256": "1d630b79d9d6d7a2c07c1678cc2319ae389e7a6047d6ef1ee084dda5a53983d7",
+      "bytes": 2750776
+    },
+    {
+      "path": "src/assets/kashgar-oasis.webp",
+      "sha256": "a3a7849f9cf5d143a45dd010668b658ed391623d609cccf4955ef5cbfddbabdb",
+      "bytes": 275312
+    },
+    {
+      "path": "src/assets/pamir-approach.png",
+      "sha256": "6d9c9d389666a84afdbf21c05ac0d94b942d753a49f630b1efffb02f186641ae",
+      "bytes": 2705451
+    },
+    {
+      "path": "src/assets/pamir-approach.webp",
+      "sha256": "4c177849851dab26454a44a94bbc8655d7430eab30977ded4be9bba5aa19660c",
+      "bytes": 224266
+    },
+    {
+      "path": "src/assets/tarim-north.jpg",
+      "sha256": "3ce9a9b044bc51400817af1bc568c9e52729e223a843aa265998defeefad0e5a",
+      "bytes": 747929
+    },
+    {
+      "path": "src/assets/tarim-south.jpg",
+      "sha256": "c33a2df3766d45136b51c8f9bad3b873c7423ab28c0a5b166db3e00fd148710e",
+      "bytes": 723341
+    },
+    {
+      "path": "src/components/CampaignTransfer.tsx",
+      "sha256": "e5570bebca0ef6489c95e3c8ee75da78e682f523b52f66c5866bc10860ec9673",
+      "bytes": 3474
+    },
+    {
+      "path": "src/components/Debrief.css",
+      "sha256": "248bb8aa804c4e474ef23522995cb1fd14cacf147aa2a47e2d8d9839d8ddd7dd",
+      "bytes": 1668
+    },
+    {
+      "path": "src/components/Debrief.tsx",
+      "sha256": "e21e95375922389f6796e03aaf9195d8fb1b8c234396cea4012673f24a0f2678",
+      "bytes": 8509
+    },
+    {
+      "path": "src/components/DecisionPanel.tsx",
+      "sha256": "f8d997b98bd748a4089b0c6f107c16470cf813f8427fc35a12c1339961976837",
+      "bytes": 4757
+    },
+    {
+      "path": "src/components/ErrorBoundary.tsx",
+      "sha256": "cc5e45847a336e14f167d312dada956fd680f840c0fe1430364f3a15a98c0121",
+      "bytes": 901
+    },
+    {
+      "path": "src/components/HouseholdAccounts.css",
+      "sha256": "5b3f52e2b47043b080bce10a802cfeeaff4ba74a3a1ce55066e0bdac6d91acca",
+      "bytes": 1229
+    },
+    {
+      "path": "src/components/HouseholdAccounts.tsx",
+      "sha256": "0e91810742571ddb3da8aeb254b998b90b46a317af824f3fa14261aaeb047185",
+      "bytes": 2818
+    },
+    {
+      "path": "src/components/JourneyLedger.tsx",
+      "sha256": "eaf22722e5aa4187dff3e34b7f059a8ff00d01dc4a0cb4b89418b7e297cecb19",
+      "bytes": 6234
+    },
+    {
+      "path": "src/components/JourneyScene.css",
+      "sha256": "61db32fc5badca9f219e7fd999f0e48da700a5229ae9cd18d6dd7933376ae181",
+      "bytes": 2889
+    },
+    {
+      "path": "src/components/JourneyScene.tsx",
+      "sha256": "f8a95483bec2788fd296aef5d777e3aab70339847b54252eb29141ef40e2a8d7",
+      "bytes": 3411
+    },
+    {
+      "path": "src/components/MarketComparison.css",
+      "sha256": "bae209e78d390d0a0f2e9db106a7e7d8edfef798a02beb89e6a5d6d127bebd2d",
+      "bytes": 1559
+    },
+    {
+      "path": "src/components/MarketComparison.tsx",
+      "sha256": "1b77430f6647e37f4a656d7f7e8d954bdab0f93271a81284b66cb246fb174a6c",
+      "bytes": 2864
+    },
+    {
+      "path": "src/components/Modal.tsx",
+      "sha256": "6da34f7585ddba05afc1774685d6142e35b00054b14894362686c661ac2d2b89",
+      "bytes": 1119
+    },
+    {
+      "path": "src/components/Onboarding.tsx",
+      "sha256": "725e9d06b518887962c7b7ae11e092fb8307c84f9d60aaf20e170a572a13dd3b",
+      "bytes": 2546
+    },
+    {
+      "path": "src/components/OutcomePanel.tsx",
+      "sha256": "5f8c6ea17b04d87cd8a1dabe574b29bd6946f8211494685c24d7b1111a07ad4d",
+      "bytes": 1625
+    },
+    {
+      "path": "src/components/PlaytestPanel.tsx",
+      "sha256": "aa14f103c6ec879eda6caf6636290e4a4eb3ddf12bdc645930f7451457ea2d38",
+      "bytes": 10940
+    },
+    {
+      "path": "src/components/ReadingControls.tsx",
+      "sha256": "44d7745a966986b06bf3958d1a49312c464d930135a0638f41d51566c58de196",
+      "bytes": 1983
+    },
+    {
+      "path": "src/components/ReflectionPanel.tsx",
+      "sha256": "1e36599dc39f4b243c87a404e76046a8556db76c8264b11dace066ce8e7ce524",
+      "bytes": 1834
+    },
+    {
+      "path": "src/components/ResourceRail.tsx",
+      "sha256": "988af7484ad26856e82955f032ccd36e304d0b343945371507043b3482d4b2ac",
+      "bytes": 2885
+    },
+    {
+      "path": "src/components/RouteBriefing.css",
+      "sha256": "e0be77a6afa2406644e3b376094b5812665415cc5ed33c15c287400c2881fdd7",
+      "bytes": 1090
+    },
+    {
+      "path": "src/components/RouteBriefing.tsx",
+      "sha256": "d54ea5104ee610caa2b27bc9d4bbcf9796a1ef473e3ac93159ee7c461dcad67e",
+      "bytes": 2320
+    },
+    {
+      "path": "src/components/RouteMap.tsx",
+      "sha256": "5b73a92bcd0786d67cee925197edb5c5adcfc66cc861c1e7255cd93d9969a201",
+      "bytes": 4392
+    },
+    {
+      "path": "src/components/RouteStrip.tsx",
+      "sha256": "0f56ac3b063a43903f9a81081f190795254dde97fffb10cc16f0e6426f18ff8d",
+      "bytes": 931
+    },
+    {
+      "path": "src/components/TravelerRail.tsx",
+      "sha256": "9f51ddf814f6b5bebc9adab1073e45a6b1ae3d59cbd0387475e020e4d7cbc389",
+      "bytes": 1655
+    },
+    {
+      "path": "src/data/journey.ts",
+      "sha256": "21c03c81c60158f7f7d5849e2e31e7434d31b44f5f60931546d90cd7aa321c3a",
+      "bytes": 60250
+    },
+    {
+      "path": "src/data/learning.ts",
+      "sha256": "ee940604e1247c10108715b34f4c1dac86734359fc27823dd3ed1b973af8f50a",
+      "bytes": 9066
+    },
+    {
+      "path": "src/data/market.ts",
+      "sha256": "4497c363aae8cc71eaa5adf5da9da0a7705ad6b774be39cdbbb906817e3e7802",
+      "bytes": 1836
+    },
+    {
+      "path": "src/data/playtest.ts",
+      "sha256": "e2cc23799cc875ecc908e528ecb1315a058b9108b2271b3c77f235225fcd253c",
+      "bytes": 10264
+    },
+    {
+      "path": "src/data/routes.ts",
+      "sha256": "477c1e354075bf671cef26711d534efab27eb18b948d1dc7e338caf23f82b9b2",
+      "bytes": 14337
+    },
+    {
+      "path": "src/game/accounts.ts",
+      "sha256": "cbe869c18370dcac227239dd788125b9799f8b9ee96642e94290252d0b0144c4",
+      "bytes": 1480
+    },
+    {
+      "path": "src/game/engine.ts",
+      "sha256": "6e17a11d2f1abcacc63d828d8b10a308bbe288f3f6d243b32666fd00c5328ab5",
+      "bytes": 20743
+    },
+    {
+      "path": "src/game/epilogue.ts",
+      "sha256": "73a347e5d3f686393c76b6bc82ccece2b036074a8da4295dfa3f8ce45a2d0371",
+      "bytes": 2345
+    },
+    {
+      "path": "src/game/importReader.ts",
+      "sha256": "ef1c7c3719d41895cbc8336a35aa34edd274b701d97b715118eb63b7225b5882",
+      "bytes": 860
+    },
+    {
+      "path": "src/game/journeyOutlook.ts",
+      "sha256": "3c1318e2c01e965b01b8f31831d1ce82866fa7a99ea9fa4bc1b9cd71e0a7cbca",
+      "bytes": 3041
+    },
+    {
+      "path": "src/game/preferences.ts",
+      "sha256": "119bd30e9bac06a930f3f92244a78788f30e899ad2eaa8363877884212b1f95f",
+      "bytes": 721
+    },
+    {
+      "path": "src/game/rules.ts",
+      "sha256": "f45fbd2c8035cb70d0d244e1e34549f9cbc4d08fe6d8b3fae18a6a92004e186c",
+      "bytes": 27101
+    },
+    {
+      "path": "src/game/save.ts",
+      "sha256": "f4acc4830062c9a16ba11af511084d0373af5b8038dc8760165f2a30c7f674fb",
+      "bytes": 9200
+    },
+    {
+      "path": "src/game/storage.ts",
+      "sha256": "74ec46b638a1b2782bf3b5c281abaf213c84fe3b00a7a55f3368208899c3b13d",
+      "bytes": 1482
+    },
+    {
+      "path": "src/game/validation.ts",
+      "sha256": "598dff1036bd289d52caa09155683ef7fc1d7adb717af064d522a1cf4aa1ab4e",
+      "bytes": 19384
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "83319a1d9d0f86ffe4fa088f92ce7113c43da712aef2277d89add33c7cf05917",
+      "bytes": 309
+    },
+    {
+      "path": "src/playtest/session.ts",
+      "sha256": "808e9eac6fa04cb299c7132dd4449dd444f2cc6256448abc8c7786490d678cc3",
+      "bytes": 11451
+    },
+    {
+      "path": "src/playtest/usePilot.ts",
+      "sha256": "f12b982a951cadc7e47355fe87f2d62c277a22dcde2712e7a1f48bea5f63b4eb",
+      "bytes": 2722
+    },
+    {
+      "path": "src/styles.css",
+      "sha256": "6d880636d08c25cca09a3a53765a65cfaba51be927ff3ad34bf395c61899b7f5",
+      "bytes": 33357
+    },
+    {
+      "path": "src/types.ts",
+      "sha256": "b5086df233c760c667df6165a933d4db23b76940b021f97d3452247d37fbcfc7",
+      "bytes": 3060
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5",
+      "bytes": 38
+    }
+  ],
+  "history_exported": false
+}

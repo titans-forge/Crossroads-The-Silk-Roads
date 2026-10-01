@@ -1,0 +1,20 @@
+{
+  "schema": "forge_game_github_license_checkpoint_v1",
+  "release_id": "FG-LIC-20260930-02-GH1",
+  "game": "Crossroads: The Silk Roads",
+  "repository": "titans-forge/Crossroads-The-Silk-Roads",
+  "recorded_date": "2026-09-30",
+  "license": "Forge Game Hosting License 1.0",
+  "license_sha256": "28638be413f7815704fe68aed52a4ea4cb7bd4d28b35f2dca9b78d438a4a90bf",
+  "previous_mit_license_sha256": null,
+  "previous_source_snapshot_sha256": "ad0e5cf4cd654ba248e749b325fc5dc93033edd8d4c6a209c5526b57d7191618",
+  "previous_mit_commit": null,
+  "source_version": "0.3.1",
+  "prior_grants_preserved": true,
+  "owner_upgrade_confirmation": "Owner confirms substantial upgrades since the first licensed releases; this migration creates no gameplay upgrade.",
+  "change_scope": "Clean source export, public documentation, release notices and packaging safeguards. Original gameplay and media are preserved.",
+  "third_party_and_media_terms_preserved": true,
+  "approval": "Owner authorized uploading the other catalog games on September 30, 2026; approved Forge license wording retained.",
+  "public_source_publication": "Prepared for authorized publication; successful upload must be verified separately.",
+  "itch_source_equivalence": "Must be established separately by exact archived runtime comparison."
+}

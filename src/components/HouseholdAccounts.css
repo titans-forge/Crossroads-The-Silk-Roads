@@ -1,0 +1,15 @@
+.household-accounts { border-block: 1px solid var(--line); padding: 14px 0; margin: 16px 0; }
+.household-accounts h3 { margin: 0 0 12px; font: 400 20px Georgia,serif; }
+.household-accounts dl { margin: 0; }
+.household-accounts dl > div { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 5px 0; font-size: 13px; }
+.household-accounts dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 700; }
+.household-accounts p { font-size: 12px; line-height: 1.6; color: var(--muted); }
+.household-accounts .account-total { border-top: 1px solid var(--line); margin-top: 5px; color: var(--teal); }
+.score-explanation { margin-top: 16px; }
+.score-explanation summary { cursor: pointer; min-height: 36px; font-size: 14px; }
+.score-explanation h4 { font-size: 16px; margin: 18px 0 8px; }
+.score-factor { display: grid; grid-template-columns: minmax(90px,1fr) minmax(60px,2fr) 40px; gap: 12px; align-items: center; font-size: 12px; margin: 12px 0; }
+.score-factor meter { width: 100%; accent-color: #8ac8af; }
+.resource-rail .household-accounts h3 { font-size: 16px; }
+.resource-rail .household-accounts dl > div { font-size: 11px; }
+.resource-rail .household-accounts p { font-size: 11px; }

@@ -1,0 +1,78 @@
+{
+  "schema": "forge_game_media_inventory_v1",
+  "assets": [
+    {
+      "path": "src/assets/bactra-approach.png",
+      "sha256": "fba511987a72635934987a18f4e38f74da6492d2aab843b6c1c2743aa9c48719",
+      "bytes": 2380648
+    },
+    {
+      "path": "src/assets/bactra-approach.webp",
+      "sha256": "d4fbb098c93be2d9fb9da739cc3aaf2f83c9a1cf3e5124da9267d48bebff64ab",
+      "bytes": 197356
+    },
+    {
+      "path": "src/assets/bactra-market.png",
+      "sha256": "74beb91a167ba1a872dddc4981c4438d35feb2f9f1be9fbc40be9be079932448",
+      "bytes": 2534430
+    },
+    {
+      "path": "src/assets/bactra-market.webp",
+      "sha256": "20a468a2203a9c88f8fe7618a1033ed580e149b2f68ce377c9214d0af0cfda4a",
+      "bytes": 212504
+    },
+    {
+      "path": "src/assets/caravan-portraits.png",
+      "sha256": "a5f3e187b8d0fb97beef0bcab5767dc0c77f3fbc61907c898bc5ef27796dc4d1",
+      "bytes": 2343980
+    },
+    {
+      "path": "src/assets/caravan-portraits.webp",
+      "sha256": "81e0672459ed144804f16cde0d56fb9e8c0b66221a984fc2a01796f0304dee7f",
+      "bytes": 151820
+    },
+    {
+      "path": "src/assets/dunhuang-frontier.png",
+      "sha256": "94fdea8e9457eb6d5477b1ab1e27b9f57ccf561cd3dab73d03b5ae7cbdad5368",
+      "bytes": 2326476
+    },
+    {
+      "path": "src/assets/dunhuang-frontier.webp",
+      "sha256": "49ce1c97057aae7a022e1b1aa9db547d3af34d9beaf6399f06aed100d8f341a9",
+      "bytes": 159724
+    },
+    {
+      "path": "src/assets/kashgar-oasis.png",
+      "sha256": "1d630b79d9d6d7a2c07c1678cc2319ae389e7a6047d6ef1ee084dda5a53983d7",
+      "bytes": 2750776
+    },
+    {
+      "path": "src/assets/kashgar-oasis.webp",
+      "sha256": "a3a7849f9cf5d143a45dd010668b658ed391623d609cccf4955ef5cbfddbabdb",
+      "bytes": 275312
+    },
+    {
+      "path": "src/assets/pamir-approach.png",
+      "sha256": "6d9c9d389666a84afdbf21c05ac0d94b942d753a49f630b1efffb02f186641ae",
+      "bytes": 2705451
+    },
+    {
+      "path": "src/assets/pamir-approach.webp",
+      "sha256": "4c177849851dab26454a44a94bbc8655d7430eab30977ded4be9bba5aa19660c",
+      "bytes": 224266
+    },
+    {
+      "path": "src/assets/tarim-north.jpg",
+      "sha256": "3ce9a9b044bc51400817af1bc568c9e52729e223a843aa265998defeefad0e5a",
+      "bytes": 747929
+    },
+    {
+      "path": "src/assets/tarim-south.jpg",
+      "sha256": "c33a2df3766d45136b51c8f9bad3b873c7423ab28c0a5b166db3e00fd148710e",
+      "bytes": 723341
+    }
+  ],
+  "rights_record": "MEDIA_RIGHTS.md",
+  "provider_evidence": "Retained project records; asset hashes do not independently establish rights.",
+  "private_receipts_included": false
+}
